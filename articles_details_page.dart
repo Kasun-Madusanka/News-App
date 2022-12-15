@@ -26,7 +26,7 @@ class ArticlePage extends StatelessWidget {
                 borderRadius: BorderRadius.circular(12.0),
               ),
             ),
-            SizedBox(
+            const SizedBox(
               height: 8.0,
             ),
             Container(
